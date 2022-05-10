@@ -1,2 +1,2 @@
-# react-intro-ws-block2-lab-start
+# research-react-intro-module2
 Created with CodeSandbox
